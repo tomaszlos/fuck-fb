@@ -1,0 +1,12 @@
+{
+  "name": "fuck-fb",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:tomaszlos/fuck-fb.git",
+  "author": "Tomasz Los",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.2.3"
+  }
+}
